@@ -17,7 +17,8 @@ Landing page estática da DeytanLab, publicada em [deytanlab.com](https://deytan
 |-----|----------|
 | `/` | Landing institucional |
 | `/privacidade/` | Política de Privacidade |
-| `/termos/` | Termos de Uso |
+| `/termos/` | Termos de Uso (inclui secção DeytanBolão com disclaimer anti-apostas) |
+| `https://bolao.deytanlab.com/terms` | Termos de Uso completos do app DeytanBolão |
 
 ## Stack
 
